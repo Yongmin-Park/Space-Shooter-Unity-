@@ -1,5 +1,5 @@
-# Space-Shooter-tutorial-Unity-
+# Space-Shooter-Unity-
 
-*-Code only repository-*
+*-only code includes-*
 
 A simple top down arcade style shooter with reference to Unity tutorial.
